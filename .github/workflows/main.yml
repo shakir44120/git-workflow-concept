@@ -10,4 +10,4 @@ jobs:
 
     steps:
      - name: Greetings
-       run: echo"hello done by me"
+       run: echo "hello done by me"
